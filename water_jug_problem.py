@@ -1,6 +1,3 @@
-import tkinter as tk
-main=tk.Tk()
-
 def check(j1,j2,cap): #function checks jug1 and jug2 capacity is equal to actual capacity or not!
     r=0
     if(j1==cap or j2==cap):
